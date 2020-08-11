@@ -19,6 +19,6 @@ Several scripts should convert org files from the directory of your choice to js
 
 ## Plans for future
 
-- [ ] Make it work for me "good enough"
-- [ ] Make it work for me "good to promote"
+- [ ] Make it work "good enough for me"
+- [ ] Make it "good enough to be promoted among zettel-users"
 - [ ] Potentially move from bash to elisp providing more integration with emacs
