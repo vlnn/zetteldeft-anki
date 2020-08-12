@@ -1,5 +1,7 @@
 # zetteldeft-anki
 
+![unit tests](https://github.com/vlnn/zetteldeft-anki/workflows/.github/workflows/sh-unittest.yml/badge.svg)
+
 Set of scripts to export of plain text zettels to deck of anki cards.
 
 ## Purpose
