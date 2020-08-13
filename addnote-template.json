@@ -1,0 +1,19 @@
+{
+  "action": "addNote",
+  "version": 1,
+  "params": {
+    "note": {
+      "deckName": "Default",
+      "modelName": "Basic",
+      "fields": {
+        "Front": "front content",
+        "Back": "back content"
+      },
+      "options": {
+        "allowDuplicate": false,
+        "duplicateScope": "deck"
+      },
+      "tags": []
+    }
+  }
+}
