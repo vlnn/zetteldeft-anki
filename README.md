@@ -17,6 +17,14 @@ Several scripts should convert org files from the directory of your choice to js
 - [Anki for your linux desktop](https://apps.ankiweb.net/)
 - [AnkiConnect plugin](https://ankiweb.net/shared/info/2055492159)
 
+## How it works
+
+`z2a.sh --calls--> z2j.sh --converts--> j2a.sh --exports--> Anki Connect`
+
+`z2a` is main interface for user, getting a zettels directory and deck name as an input.
+`z2j` converts org format to json and feeds result to j2a
+`j2a` exports json to Anki Connect
+
 ## Plans for future
 
 - [ ] Make it work "good enough for me"
